@@ -1,0 +1,21 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.form-container input{
+    flex-grow: 1;
+    margin-right: 4px;
+    height: 30px;
+}
+.form-container button{
+    height: 35px;
+    background-color: rgb(132, 44, 156);
+    color: white;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+.form-container button:hover{
+    background-color: rgb(57, 13, 98);
+}

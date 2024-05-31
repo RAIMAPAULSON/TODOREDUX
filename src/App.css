@@ -1,0 +1,17 @@
+.App {
+    width: 420px;
+    margin: 80px auto;
+    padding: 20px;
+    background-color: rgb(24, 4, 57);
+    border: 2px solid white;
+}
+
+.App h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: rgb(72, 39, 100);
+    font-family: Arial, sans-serif;
+}
